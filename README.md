@@ -99,14 +99,6 @@ The goal of this project is to automate the analysis and translation of text dat
 ---
 
 
-## **How to Run**  
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/your-username/nlp_project.git
-   cd nlp_project
-
-
 
 
 
