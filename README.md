@@ -8,11 +8,10 @@ This project explores two essential Natural Language Processing (NLP) tasks: **S
 1. [Project Overview](#project-overview)  
 2. [Models and Methodologies](#models-and-methodologies)  
 3. [Results and Evaluation](#results-and-evaluation)  
-4. [Project Structure](#project-structure)  
-5. [How to Run](#how-to-run)  
-6. [Future Improvements](#future-improvements)  
-7. [References](#references)  
-8. [Video Demonstration](#video-demonstration)  
+4. [How to Run](#how-to-run)  
+5. [Future Improvements](#future-improvements)  
+6. [References](#references)  
+7. [Video Demonstration](#video-demonstration)  
 
 ---
 
@@ -50,7 +49,14 @@ The goal of this project is to automate the analysis and translation of text dat
 
 ### **Machine Translation**  
 - **Evaluation Metric**: BLEU scores for 20 sample sentences.  
-- **Best BLEU Score**: 0.0670 (Sentence 17)  
+- **Best BLEU Score**: **0.0670 (Sentence 17)**  
 - **Challenges**: Low BLEU scores for complex or idiomatic sentences.  
 
+---
 
+## **How to Run**  
+
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/your-username/nlp_project.git
+   cd nlp_project
