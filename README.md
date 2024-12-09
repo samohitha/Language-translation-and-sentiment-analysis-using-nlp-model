@@ -54,9 +54,56 @@ The goal of this project is to automate the analysis and translation of text dat
 
 ---
 
+---
+
+## **Future Improvements**  
+
+- **Fine-Tuning Models**:  
+  - **Objective**: Enhance BLEU scores for complex translations.  
+  - **Plan**: Fine-tune MarianMT on domain-specific datasets or more diverse sentence structures.
+
+- **Multilingual Support**:  
+  - **Objective**: Expand to other languages.  
+  - **Plan**: Utilize multilingual models like mBERT or XLM-R for cross-lingual sentiment analysis and translation.
+
+- **Improved Sentiment Analysis**:  
+  - **Objective**: Better handling of sarcasm and mixed sentiments.  
+  - **Plan**: Fine-tune more advanced models or use domain-specific datasets to improve sentiment detection.
+
+- **Resource Optimization**:  
+  - **Objective**: Improve efficiency of training and inference.  
+  - **Plan**: Explore model pruning or distillation to reduce resource usage during training and inference.
+
+---
+
+## **References**  
+
+1. **Hugging Face Documentation**  
+   - [Hugging Face Docs](https://huggingface.co/docs)
+
+2. **Vaswani, A. et al. (2017)**  
+   - *Attention is All You Need.*  
+
+3. **Devlin, J. et al. (2019)**  
+   - *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.*  
+
+4. **Lewis, M. et al. (2020)**  
+   - *Marian: Fast Neural Machine Translation.*  
+
+5. **Pang, B. & Lee, L. (2005)**  
+   - *Seeing Stars: Exploiting Class Relationships for Sentiment Categorization.*  
+
+---
+
+
 ## **How to Run**  
 
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/your-username/nlp_project.git
    cd nlp_project
+
+
+
+
+
