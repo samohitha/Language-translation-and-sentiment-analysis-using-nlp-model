@@ -77,21 +77,24 @@ The goal of this project is to automate the analysis and translation of text dat
 ---
 
 ## **References**  
-
-1. **Hugging Face Documentation**  
-   - [Hugging Face Docs](https://huggingface.co/docs)
-
-2. **Vaswani, A. et al. (2017)**  
+1. **Vaswani, A. et al. (2017)**  
    - *Attention is All You Need.*  
 
-3. **Devlin, J. et al. (2019)**  
+2. **Devlin, J. et al. (2019)**  
    - *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.*  
 
-4. **Lewis, M. et al. (2020)**  
+3. **Lewis, M. et al. (2020)**  
    - *Marian: Fast Neural Machine Translation.*  
 
-5. **Pang, B. & Lee, L. (2005)**  
+4. **Pang, B. & Lee, L. (2005)**  
    - *Seeing Stars: Exploiting Class Relationships for Sentiment Categorization.*  
+
+---
+
+## **Video Demonstration**  
+
+🎥 **Watch the Project Overview Video:**  
+[YouTube Project Demonstration](https://www.youtube.com/watch?v=_H-j2MDGID4)
 
 ---
 
